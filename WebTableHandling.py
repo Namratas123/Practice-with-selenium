@@ -7,3 +7,4 @@
 # browser.execute_script("Window.scrollTo(0,700)")
 # table = browser.find_element(By.XPATH,  '//*[@id="countries"]/tbody/tr[1]/td[2]/h3/strong')
 
+#this is the code
