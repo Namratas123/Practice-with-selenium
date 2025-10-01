@@ -7,7 +7,3 @@
 # browser.execute_script("Window.scrollTo(0,700)")
 # table = browser.find_element(By.XPATH,  '//*[@id="countries"]/tbody/tr[1]/td[2]/h3/strong')
 
-#To Run and execute all the test in parallel
-#use pytest-xdist
-#and "pytest -n 4" in terminal 
-#if want to learn specific files: pytest test_login test_cart.py -n 2
